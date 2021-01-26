@@ -35,9 +35,10 @@ nav{
 }
 
 .row-2{
-    min-height: 500px;
+
     /* debug */
     background-color: blue;
+    /* min-height: 500px; */
 }
 
 /* regola clear-fix */
